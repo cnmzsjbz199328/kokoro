@@ -1,4 +1,3 @@
-import spaces
 from kokoro import KModel, KPipeline
 import gradio as gr
 import os
